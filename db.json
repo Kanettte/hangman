@@ -1,8 +1,17 @@
 {
   "fr": [
-    ["MORNING"],    
-    ["SETTING"],
-    ["DRINKING"]
+    {
+      "id": 1,
+      "word": "BREVAGE"
+    },
+    {
+      "id": 2,
+      "word": "HYDROMEL"
+    },
+    {
+      "id": 3,
+      "word": "CONFIGURATION"
+    }
   ],
   "en": [
     {
