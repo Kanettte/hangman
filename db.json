@@ -2,29 +2,29 @@
   "fr": [
     {
       "id": 1,
-      "word": "BREVAGE"
+      "name": "BREUVAGE"
     },
     {
       "id": 2,
-      "word": "HYDROMEL"
+      "name": "HYDROMEL"
     },
     {
       "id": 3,
-      "word": "CONFIGURATION"
+      "name": "CONFIGURATION"
     }
   ],
   "en": [
     {
       "id": 1,
-      "word": "MORNING"
+      "name": "MORNING"
     },
     {
       "id": 2,
-      "word": "SETTING"
+      "name": "SETTING"
     },
     {
       "id": 3,
-      "word": "DRINKING"
+      "name": "DRINKING"
     }
   ]
 }
