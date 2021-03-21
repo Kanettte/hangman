@@ -1,17 +1,21 @@
 {
-   "fr":["BREVETAGE", "NATATION", "HYDROMEL"],
-  "en":[
-      {
-         "id":1,
-         "word": "MORNING"
-      },
-           {
-         "id":2,
-         "word": "SETTING"
-      },
-           {
-         "id":3,
-         "word": "DRINKING"
-      }
+  "fr": [
+    ["MORNING"],    
+    ["SETTING"],
+    ["DRINKING"]
+  ],
+  "en": [
+    {
+      "id": 1,
+      "word": "MORNING"
+    },
+    {
+      "id": 2,
+      "word": "SETTING"
+    },
+    {
+      "id": 3,
+      "word": "DRINKING"
+    }
   ]
 }
