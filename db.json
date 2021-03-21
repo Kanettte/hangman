@@ -29,6 +29,6 @@
     { "id": 26, "name": "INTERIEUR" },
     { "id": 27, "name": "DEPECHER" },
     { "id": 28, "name": "OUVRIR" },
-    { "id": 29, "name": "INTRUS" },
+    { "id": 29, "name": "INTRUS" }
   ]
 }
