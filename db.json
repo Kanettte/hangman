@@ -1,18 +1,5 @@
 {
-   "fr":[
-      {
-         "id":1,
-         "word": "BREVETAGE"
-      },
-           {
-         "id":2,
-         "word": "NATATION"
-      },
-           {
-         "id":3,
-         "word": "HYDROMEL"
-      }
-   ],
+   "fr":["BREVETAGE", "NATATION", "HYDROMEL"],
   "en":[
       {
          "id":1,
